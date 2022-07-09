@@ -434,13 +434,13 @@ h2
       width: 200px;
       top:100px;
     }
-    .im3{
-      left: 32%;
+   .im3{
+      left: 35%;
       position: absolute;
       transform: rotate(360deg);
-      height:auto;
-      width: auto;
-      top:450px;
+      height:110PX;
+      width:420px;
+      top:590px;
     }
 
 
